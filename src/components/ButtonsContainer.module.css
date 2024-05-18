@@ -1,0 +1,10 @@
+.buttonsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.calculatorButton {
+  height: 45px;
+  width: 45px;
+  margin: 3px;
+}

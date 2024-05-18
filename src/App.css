@@ -1,0 +1,9 @@
+.calculator {
+  border: 1px solid black;
+  width: 200px;
+  border-radius: 5px;
+}
+body {
+  background-image: url("background-img.jpg");
+  background-size: cover;
+}
